@@ -1,0 +1,18 @@
+{
+  "fileItems": [
+    {
+      "title": "Logo",
+      "description": "is a test",
+      "notes": "",
+      "fileName": "logo_ula.jpg",
+      "iconPathAndFileName": "uploadedFiles/logo_ula.jpg"
+    },
+    {
+      "title": "DCI",
+      "description": "",
+      "notes": "",
+      "fileName": "Digital Career Institute - Fullstack Developer - 3 Stars - 2023-02-17.png",
+      "iconPathAndFileName": "uploadedFiles/Digital Career Institute - Fullstack Developer - 3 Stars - 2023-02-17.png"
+    }
+  ]
+}
